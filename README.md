@@ -1,6 +1,6 @@
 # Тестовое задание
 
-Собранная версия доступна по [ссылке](https://fraction-calculator-and-websockets-comment.netlify.com/)
+Собранная версия доступна по [ссылке](https://practical-minsky-cd7352.netlify.com/)
 
 ### Текст задания:  
 _на вход дается уравнение простой квадратичной параболы.
